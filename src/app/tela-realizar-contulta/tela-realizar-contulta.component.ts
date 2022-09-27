@@ -11,5 +11,4 @@ export class TelaRealizarContultaComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }
